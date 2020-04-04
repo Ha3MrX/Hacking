@@ -6,12 +6,6 @@ def restart_program():
         curdir = os.getcwd()
 os.system("clear")
 os.system("figlet Ha3MrX")
-print "Create By : Ha3MrX"
-print "YouTube   : https://www.youtube.com/c/HA-MRX"
-print "github    : https://github.com/Ha3MrX"
-print "Facebook  : https://www.facebook.com/muhamad.jabar222"
-print "Website   : https://kurdkali.wordpress.com/"
-print "Twitter   : https://twitter.com/ha_mrx"
 print
 print "           [1]> Brute Force              "
 print "           [2]> DDos Attack              "
