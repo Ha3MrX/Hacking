@@ -18,7 +18,7 @@
 
 #### chmod +x Ha3Mrx.py
 
-#### python Ha3Mrx.py
+#### python2 Ha3Mrx.py
 
 ### ScreenShot
 
